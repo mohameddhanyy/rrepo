@@ -1,2 +1,3 @@
 init with remotee
 second line in file
+third line added
